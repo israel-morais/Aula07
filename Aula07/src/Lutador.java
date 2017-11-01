@@ -88,7 +88,7 @@ public class Lutador {
 	}
 	
 	// Alterado do git
-	
+	// Alterado do eclipse
 
 	
 }
