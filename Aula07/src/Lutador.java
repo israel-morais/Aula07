@@ -87,6 +87,7 @@ public class Lutador {
 		this.empates = empates;
 	}
 	
+	// Alterado do git
 	
 
 	
