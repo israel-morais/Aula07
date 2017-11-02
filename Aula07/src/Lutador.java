@@ -87,6 +87,6 @@ public class Lutador {
 		this.empates = empates;
 	}
 	
-	
+	//Alteração -------------
 	
 }
